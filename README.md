@@ -10,6 +10,7 @@ Oi! Meu nome é Matheus.
 Estou dando os primeiros passos na área de tecnologia e uso este espaço pra guardar tudo o que vou construindo durante a faculdade.
 
 - 🎓 Cursando ADS na UniFAAT, com formatura prevista para o fim de 2027
+- 🔧 O que mais me prende é a parte que ninguém vê: servidores, containers e como a aplicação chega até o usuário
 
 <details>
   <summary>🔎 Mais sobre mim</summary>
@@ -22,10 +23,8 @@ Estou dando os primeiros passos na área de tecnologia e uso este espaço pra gu
 
 <p>
   <a href="https://www.linkedin.com/in/matheus-maciel-70b447357"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:mtmaciel7@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="mailto:mtmaciel7@gmail.com"><img src="https://img.shields.io/badge/mtmaciel7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mtmaciel7@gmail.com"></a>
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=mtmaciel1&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub">
 
 ---
 
